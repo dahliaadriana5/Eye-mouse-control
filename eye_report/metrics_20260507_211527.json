@@ -1,0 +1,24 @@
+{
+  "durata_sesiune_s": 49.4,
+  "nr_fixatii": 59,
+  "fixatii_pe_minut": 71.6,
+  "durata_medie_fixatie_ms": 746.5,
+  "durata_max_fixatie_ms": 6148.2,
+  "nr_saccade": 1,
+  "lungime_medie_saccada_px": 191.4,
+  "ttff_per_zona_s": {
+    "Stanga-Sus": 0.2,
+    "Centru-Sus": 0.22,
+    "Dreapta-Sus": 1.26,
+    "Stanga-Mijloc": 33.1,
+    "Centru": 40.93
+  },
+  "fixatii_per_zona": {
+    "Centru-Sus": 15,
+    "Dreapta-Sus": 25,
+    "Stanga-Sus": 9,
+    "Stanga-Mijloc": 3,
+    "Centru": 7
+  },
+  "zona_dominanta": "Dreapta-Sus"
+}
