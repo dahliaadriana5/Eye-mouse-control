@@ -15,7 +15,7 @@
 
 ## 🌟 What is this?
 
-Your eyes become your mouse. The webcam detects your iris movement in real time and moves the cursor across the screen — no keyboard, no mouse, no hands. A short blink clicks. Eyes closed for 3 seconds exits the program.
+Your eyes become your mouse. The webcam detects your iris movement in real time and moves the cursor across the screen — no keyboard, no mouse, no hands. A short blink clicks. Eyes closed for 5 seconds exits the program.
 
 Beyond control, the system also records **how you look** — generating heatmaps, charts and full metrics about your visual behavior.
 
@@ -81,7 +81,7 @@ python eyetracking.py
 | `S` | Resume tracking |
 | `Q` | Exit + save report |
 | 👁️ short blink | Mouse click |
-| 👁️ eyes closed 3s | Auto exit |
+| 👁️ eyes closed 5s | Auto exit |
 
 ---
 
